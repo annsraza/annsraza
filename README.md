@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anns Raza
+# Ahmed Anns Raza
 
 ### Data Scientist · Machine Learning Engineer · Analytics Professional
 
