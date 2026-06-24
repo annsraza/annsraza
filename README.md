@@ -1,128 +1,159 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   $ whoami                                                   ║
-║   > Anns Raza                                                ║
-║                                                              ║
-║   $ cat role.txt                                             ║
-║   > Data Scientist · ML Engineer · Problem Solver            ║
-║                                                              ║
-║   $ echo $MISSION                                            ║
-║   > Turning raw data into decisions that matter.             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Anns Raza
 
-[![Portfolio](https://img.shields.io/badge/►_portfolio-annsraza.dev-00ff41?style=flat-square&logoColor=00ff41)](https://annsraza.dev)
+### Data Scientist · Machine Learning Engineer · Analytics Professional
+
+*Transforming data into intelligent systems, actionable insights, and measurable impact.*
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0969da?style=flat-square&logo=googlechrome&logoColor=white)](https://annsraza.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/annsraza)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/annsraza)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@annsraza)
 
 </div>
 
 ---
 
-```python
-class AnnsRaza:
-    def __init__(self):
-        self.role        = ["Data Scientist", "ML Engineer"]
-        self.focus       = ["Machine Learning", "NLP", "Data Storytelling"]
-        self.philosophy  = "The finish line is deployment, not the notebook."
-        self.status      = "Open to interesting problems."
+## About
 
-    def build(self, problem):
-        return pipeline(
-            ingest(problem)     >>
-            clean()             >>
-            model()             >>
-            deploy()            >>
-            communicate()
-        )
-```
+I'm a Data Scientist and Machine Learning Engineer focused on building end-to-end solutions — from raw data pipelines to deployed models. My work spans supervised and unsupervised learning, natural language processing, and analytics, with a consistent emphasis on systems that deliver real business value.
+
+I care about clean experimentation, reproducible workflows, and translating complex outputs into decisions that non-technical stakeholders can act on.
 
 ---
 
-## `~/stack`
+## Expertise
+
+| Domain | Focus Areas |
+|---|---|
+| **Machine Learning** | Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering |
+| **Natural Language Processing** | Text Classification, Transformers, Embeddings, Fine-tuning LLMs |
+| **Data Analytics** | Exploratory Analysis, Statistical Inference, KPI Design |
+| **Visualization** | Dashboard Design, Storytelling with Data, Executive Reporting |
+| **Deployment** | REST APIs, Streamlit Apps, Model Serving, Pipeline Automation |
+
+---
+
+## Tech Stack
 
 <br>
 
-**`// languages`**
+<div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,cpp,postgres&theme=dark&perline=8)](https://skillicons.dev)
+**Languages**
 
-<br>
-
-**`// data & analysis`**
-
-[![Skills](https://skillicons.dev/icons?i=numpy,pandas&theme=dark&perline=8)](https://skillicons.dev)
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="48" title="Excel" />
+[![Skills](https://skillicons.dev/icons?i=python,cpp,postgres&theme=dark&perline=6)](https://skillicons.dev)
 
 <br>
 
-**`// visualization`**
+**Data & Analysis**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48" title="Matplotlib" />
-&nbsp;&nbsp;
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" title="Seaborn" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="48" title="Plotly" />
-&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" title="Power BI" />
+[![Skills](https://skillicons.dev/icons?i=numpy,pandas,postgresql&theme=dark&perline=6)](https://skillicons.dev)
 
 <br>
 
-**`// machine learning`**
+**Machine Learning**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" title="Scikit-learn" />
-&nbsp;&nbsp;
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=6)](https://skillicons.dev)
 &nbsp;&nbsp;
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="48" title="Hugging Face" />
 
 <br>
 
-**`// tools`**
+**Visualization**
 
-[![Skills](https://skillicons.dev/icons?i=vscode,git&theme=dark&perline=8)](https://skillicons.dev)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" title="Power BI" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="48" title="Plotly" />
+&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="48" title="Matplotlib" />
+&nbsp;&nbsp;
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" title="Seaborn" />
+
+<br>
+
+**Tools & Environment**
+
+[![Skills](https://skillicons.dev/icons?i=git,vscode&theme=dark&perline=6)](https://skillicons.dev)
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" title="Jupyter" />
 &nbsp;&nbsp;
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="48" title="Streamlit" />
 
+</div>
+
 ---
 
-## `~/stats`
+## Featured Projects
+
+<br>
+
+**Project One — Placeholder**
+
+A machine learning solution that addresses [problem statement]. Built an end-to-end pipeline from data ingestion to model deployment, achieving [metric/result].
+
+`Python` `Scikit-learn` `Streamlit` `PostgreSQL`
+
+<br>
+
+**Project Two — Placeholder**
+
+An NLP system designed to [task — e.g. classify, summarize, extract]. Fine-tuned a transformer model on domain-specific data, delivering [outcome].
+
+`Python` `Hugging Face` `PyTorch` `FastAPI`
+
+<br>
+
+**Project Three — Placeholder**
+
+A data analytics and visualization project that surfaced [insight] from [data source], enabling [business decision or impact].
+
+`Python` `Pandas` `Power BI` `Plotly`
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=annsraza&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
-&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annsraza&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annsraza&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&hide_title=false)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annsraza&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
 
 ---
 
-## `~/connect`
+## Currently Exploring
 
-```
-$ ping --me-at
-```
+- **LLM Applications** — retrieval-augmented generation, prompt engineering, and agent frameworks
+- **Generative AI** — fine-tuning and evaluating large language models for domain-specific tasks
+- **MLOps** — experiment tracking, model versioning, and CI/CD for ML pipelines
+- **Advanced NLP** — multi-task learning, cross-lingual models, and long-context transformers
 
-<br>
+---
 
-<a href="https://linkedin.com/in/annsraza"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>&nbsp;
-<a href="https://x.com/annsraza_"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff41" /></a>&nbsp;
-<a href="https://kaggle.com/annsraza"><img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=00ff41" /></a>&nbsp;
-<a href="https://medium.com/@annsraza"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00ff41" /></a>&nbsp;
-<a href="https://hackerrank.com/annsraza"><img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00ff41" /></a>&nbsp;
-<a href="https://leetcode.com/annsraza"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00ff41" /></a>&nbsp;
-<a href="mailto:annsraza.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+## Connect
+
+I'm open to collaborations, consulting, and conversations about data, ML, or AI. Reach out through any of the channels below.
 
 <br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annsraza)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=googlechrome&logoColor=white)](https://annsraza.dev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/annsraza)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@annsraza)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annsraza.dev@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-<sub><code>// always open to interesting problems</code></sub>
+<sub>Data Scientist · Machine Learning Engineer · Open to Opportunities</sub>
 </div>
