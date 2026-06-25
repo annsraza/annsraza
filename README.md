@@ -30,17 +30,6 @@ I care about clean experimentation, reproducible workflows, and translating comp
 
 ##  Areas of Expertise
 
-| Domain | Focus Areas |
-|---|---|
-|  **Machine Learning** | Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation |
-|  **Natural Language Processing** | Transformers, Embeddings, Fine-tuning LLMs, Text Classification |
-|  **Data Analytics** | Exploratory Analysis, Statistical Inference, KPI Design |
-|  **Visualization** | Dashboard Design, Storytelling with Data, Executive Reporting |
-|  **Deployment & MLOps** | REST APIs, Streamlit Apps, Model Serving, Pipeline Automation |
-
----
-
-##  Tech Stack
 
 **Languages**
 
