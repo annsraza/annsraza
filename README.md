@@ -110,7 +110,7 @@ A data analytics and visualization project surfacing actionable patterns from la
 </td>
 <td width="50%" valign="top">
 
-### 🔧 More coming soon...
+###  More coming soon...
 Currently working on new projects in the LLM and MLOps space. Stay tuned.
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-7b6ef6?style=flat-square)
@@ -136,7 +136,7 @@ Currently working on new projects in the LLM and MLOps space. Stay tuned.
 
 ---
 
-## 🔭 Currently Exploring
+##  Currently Exploring
 
 -  **LLM Applications** — retrieval-augmented generation, prompt engineering, agent frameworks
 -  **Generative AI** — fine-tuning and evaluating large language models for domain-specific tasks
