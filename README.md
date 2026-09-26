@@ -1,8 +1,10 @@
 ## 👤 About Me
 
-`My name is` **Ahmed Anns Raza** .`I'm a` **Data Scientist** `focused on building end-to-end solutions — from raw data pipelines to deployed models. I am currently in` **3rd Semester** `studying in` **University of the Punjab,Lahore** .
+## 👤 About Me
 
-`I care about clean experimentation, reproducible workflows, and translating complex outputs into decisions that non-technical stakeholders can act on.`
+My name is **Ahmed Anns Raza**. I am a **BS Data Science** student at the **University of the Punjab, Lahore**, and I am currently in my **3rd semester**. I am interested in programming, data, and learning new technologies.
+
+ I want to improve my skills in data analysis and machine learning. In the future, I want to become a **Data Scientist** and use data to solve real-world problems.
 
 ---
 
